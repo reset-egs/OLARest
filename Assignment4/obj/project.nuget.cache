@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmay/cbwVWSFYGgB2+euzL0GYYRRPhtlTpv8VAUX5IaleYfuw+0bNfC+rm3CBqL643qvVbda0HhoDyibO6PvwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\szymo\\Documents\\Notes\\Computer Science\\Programming\\Mandatory assignment 1\\Assignment4\\Assignment4\\Assignment4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
